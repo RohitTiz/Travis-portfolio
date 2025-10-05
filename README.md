@@ -11,7 +11,7 @@ The site showcases design skills, interactive effects, and visual vibes that ref
 
 ## 🚀 Features
 
-- 🌌 Smooth scrolling and animated transitions
+- 🌌 Smooth scrolling and animated transition
 - 🎧 Dynamic "Astroworld" theme with immersive visuals
 - 💼 Project section with mini-sites and JS interactions
 - 📱 Mobile-friendly design with responsive layout
