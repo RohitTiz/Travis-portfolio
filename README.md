@@ -25,7 +25,7 @@ The site showcases design skills, interactive effects, and visual vibes that ref
 
 ## 📸 Screenshots
 
-> *![Screenshot 2025-05-01 223559](https://github.com/user-attachments/assets/e41ef22c-7645-476a-b89f-6c8e3ac6113f)
+
 *  
 > 💡 Example: Hero section with floating elements, galaxy background, and signature Cactus Jack logo.
 
