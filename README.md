@@ -31,7 +31,4 @@ The site showcases design skills, interactive effects, and visual vibes that ref
 
 ## 🛠️ Installation & Usage
 
-1. **Clone the repository:**
-
-```bash
 git clone https://github.com/yourusername/travis-scott-portfolio.git
