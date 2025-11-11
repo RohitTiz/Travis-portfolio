@@ -29,6 +29,3 @@ The site showcases design skills, interactive effects, and visual vibes that ref
 *  
 > 💡 Example: Hero section with floating elements, galaxy background, and signature Cactus Jack logo.
 
-## 🛠️ Installation & Usage
-
-git clone https://github.com/yourusername/travis-scott-portfolio.git
