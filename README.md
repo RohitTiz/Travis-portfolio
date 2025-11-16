@@ -17,11 +17,7 @@ The site showcases design skills, interactive effects, and visual vibes that ref
 - 📱 Mobile-friendly design with responsive layout
 - 🧠 Vanilla JavaScript for DOM manipulation and effects
 
-## 📁 Technologies Used
 
-- **HTML5** — Structured content like verses
-- **CSS3** — Styling sharp as Travis' fits
-- **JavaScript (ES6)** — Adds interactivity 
 
 ## 📸 Screenshots
 
