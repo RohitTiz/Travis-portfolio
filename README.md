@@ -19,7 +19,7 @@ The site showcases design skills, interactive effects, and visual vibes that ref
 
 
 
-## 📸 Screenshots
+
 
 
 *  
