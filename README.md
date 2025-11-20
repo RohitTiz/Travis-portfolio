@@ -15,7 +15,7 @@ The site showcases design skills, interactive effects, and visual vibes that ref
 - 🎧 Dynamic "Astroworld" theme with immersive visuals
 - 💼 Project section with mini-sites and JS interactions
 - 📱 Mobile-friendly design with responsive layout
-- 🧠 Vanilla JavaScript for DOM manipulation and effects
+
 
 
 
