@@ -11,11 +11,3 @@ The site showcases design skills, interactive effects, and visual vibes that ref
 
 
 
-
-
-
-
-
-*  
-> 💡 Example: Hero section with floating elements, galaxy background, and signature Cactus Jack logo.
-
