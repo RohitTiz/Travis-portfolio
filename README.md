@@ -9,12 +9,6 @@ This is a fully responsive, front-end portfolio website built with **HTML**, **C
 
 The site showcases design skills, interactive effects, and visual vibes that reflect a modern, creative, and bold personality — just like the music.
 
-## 🚀 Features
-
-- 🌌 Smooth scrolling and animated transition
-- 🎧 Dynamic "Astroworld" theme with immersive visuals
-- 💼 Project section with mini-sites and JS interactions
-- 📱 Mobile-friendly design with responsive layout
 
 
 
