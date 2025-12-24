@@ -7,7 +7,7 @@
 
 This is a fully responsive, front-end portfolio website built with **HTML**, **CSS**, and **JavaScript** — designed and coded by *La Flame* himself, reimagined as a web designer and developer.
 
-The site showcases design skills, interactive effects, and visual vibes that reflect a modern, creative, and bold personality — just like the music.lll
+The site showcases design skills, interactive effects, and visual vibes that reflect a modern, creative, and bold personality — just like the music.
 
 
 
